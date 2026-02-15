@@ -26,7 +26,7 @@ Visual Studio ou VS Code
    dotnet test
 
 ## Exemplo de cenário Gherkin
-
+```gherkin
 Scenario: Submitting form data
 	Given that user  fill in their first name
 	And last name 
